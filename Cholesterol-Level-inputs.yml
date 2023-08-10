@@ -1,0 +1,33 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/cholesterol---primary.py
+inputModule3:
+  class: File
+  path: python/cholesterol-level-plasma---primary.py
+inputModule4:
+  class: File
+  path: python/cholesterol-level-serum---primary.py
+inputModule5:
+  class: File
+  path: python/cholesterol-level-raised---primary.py
+inputModule6:
+  class: File
+  path: python/total-cholesterol-level---primary.py
+inputModule7:
+  class: File
+  path: python/cholesterol-level-ratio---primary.py
+inputModule8:
+  class: File
+  path: python/normal-cholesterol-level---primary.py
+inputModule9:
+  class: File
+  path: python/cholesterol-level-screening---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
